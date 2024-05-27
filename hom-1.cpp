@@ -1,7 +1,7 @@
 #include<iostream>
 #include<vector>
 using namespace std;
-//حلا نبيل أحمد
+//حلا نبيل حماده
 void input_array_ed(int array[][2],int size){
     for (int i = 0; i < size; i++)
     {for (int j=0; j<2 ;j++){
