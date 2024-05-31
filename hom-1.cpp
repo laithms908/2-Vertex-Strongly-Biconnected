@@ -30,7 +30,7 @@ void input_array_ver(int array[100],int size){
     }
     
 }
-// ديمة وائل أسعد
+// ديمة وائل سعود
 void output_array_ver(int array[100],int size){
     for (int i = 0; i < size; i++)
     {
